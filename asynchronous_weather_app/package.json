@@ -1,0 +1,23 @@
+{
+  "name": "asynchronous_weather_app",
+  "version": "1.0.0",
+  "description": "asynchronous weather app built through Udemy course",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adzarei/nodejs-examples.git"
+  },
+  "keywords": [
+    "nodejs",
+    "asynchronous"
+  ],
+  "author": "Adrián Zapater",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adzarei/nodejs-examples/issues"
+  },
+  "homepage": "https://github.com/adzarei/nodejs-examples#readme"
+}
