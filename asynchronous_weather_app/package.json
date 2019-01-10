@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/adzarei/nodejs-examples/issues"
   },
-  "homepage": "https://github.com/adzarei/nodejs-examples#readme"
+  "homepage": "https://github.com/adzarei/nodejs-examples#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
 }
